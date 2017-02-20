@@ -1,0 +1,45 @@
+/*
+ Theme Name:   the7 Child
+ Theme URI:    http://www.whoisrichardknight.com
+ Description:  the7 Child Theme for NLGREEK.COM
+ Author:       Richard Knight
+ Author URI:   http://www.whoisrichardknight.com
+ Template:     dt-the7
+ Version:      1.0.0
+ Text Domain:  the7
+*/
+
+/* Mail Chimp Front Page Web Form Styles */
+.front-page-web-form input[type="text"]{
+    margin: 15px;
+    
+}
+
+/* SIZE CHART STYLES */
+#main-size-chart th{
+  text-align: center;
+  background: gold;
+
+}
+
+#main-size-chart td{
+  text-align: 
+      center;
+}
+
+#main-size-chart tr:nth-child(even) {
+    background-color: #eee;
+}
+#main-size-chart tr:nth-child(odd) {
+   background-color:#fff;
+}
+#main-size-chart th {
+    background-color: #dd7ea4;
+    color: white;
+}
+#main-size-chart td:nth-child(odd) {    
+   border-right: 1px solid #dd7ea4;
+}
+  #main-size-chart td{    
+       padding: 5px;
+}
